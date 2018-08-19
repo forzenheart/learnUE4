@@ -105,4 +105,4 @@ venv.bak/
 
 
 
-doc/build
+doc/_build
